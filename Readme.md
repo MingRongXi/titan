@@ -8,8 +8,7 @@
 
 ## 二、功能介绍
 
-![功能图](D:\study\Project\ShiXun\titan\图片\功能图.png)
-
+![image](https://img-blog.csdnimg.cn/20200729223309519.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0YWJsZV96bA==,size_16,color_FFFFFF,t_70#pic_center)
 ## 三、架构介绍
 
 数据采集传输：Flume、Kafka、Spark
@@ -24,19 +23,18 @@
 
 元数据管理：Atlas
 
-![架构图](D:\study\Project\ShiXun\titan\图片\架构图.png)
+![image](https://img-blog.csdnimg.cn/20200729223321457.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0YWJsZV96bA==,size_16,color_FFFFFF,t_70#pic_center)
 
 ## 四、效果展示
 
 ### web部分（部分）：
 
-<img src="D:\study\Project\ShiXun\titan\图片\web效果1.png" alt="web效果1" style="zoom:50%;" />
-
-![web效果2](D:\study\Project\ShiXun\titan\图片\web效果2.png)
+![image](https://img-blog.csdnimg.cn/20200729223236951.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0YWJsZV96bA==,size_16,color_FFFFFF,t_70#pic_center)
+![image](https://img-blog.csdnimg.cn/20200729223254840.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0YWJsZV96bA==,size_16,color_FFFFFF,t_70#pic_center)
 
 ### spark任务部分：
 
-<img src="file:///D:\qq消息记录\1176066749\Image\C2C\55BFF03412778EC3B6A501660F327E09.png" alt="img" style="zoom:50%;" />
+![image](https://img-blog.csdnimg.cn/20200729224210977.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0YWJsZV96bA==,size_16,color_FFFFFF,t_70#pic_center)
 
 ## 五、代码介绍
 
